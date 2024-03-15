@@ -4,6 +4,8 @@
 
 - [ ] GUI design
 - [ ] File handling
+- [ ] Syntax highlighting
+- [ ] Regular expressions
 
 ## Recommended programming language
 

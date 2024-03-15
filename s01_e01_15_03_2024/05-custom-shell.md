@@ -4,6 +4,8 @@
 
 - [ ] Process management
 - [ ] I/O handling
+- [ ] Parsing and Interpretation
+- [ ] Command Execution
 
 ## Recommended programming language
 

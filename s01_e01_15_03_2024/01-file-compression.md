@@ -4,7 +4,8 @@
 
 - [ ] Data encoding
 - [ ] Data compression
-- [ ] Most of all algorithms
+- [ ] Algorithm Complexity
+- [ ] File formats
 
 ## Recommended programming language
 

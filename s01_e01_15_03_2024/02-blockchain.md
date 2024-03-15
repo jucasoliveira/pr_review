@@ -5,6 +5,7 @@
 - [ ] Blockchain Database Fundamentals
 - [ ] Cryptography in Blockchain
 - [ ] Distributed systems
+- [ ] Consensus mechanisms
 
 ## Recommended programming language
 
