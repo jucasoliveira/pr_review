@@ -8,3 +8,5 @@ The GHP is simple and follows an easy-to-remember development cycle:
 4. Deadline: Has the deadline arrived? Deliver it as it is and hope the stars are aligned.
 5. Repetition: If there's still time, repeat the above steps until luck is in your favor.
    The go horse workflow
+
+![methodology](https://cdn-images-1.medium.com/max/800/1*BydfwGJAK_u7Y3e9MGCcQA.png)
