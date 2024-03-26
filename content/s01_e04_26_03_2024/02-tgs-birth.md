@@ -18,3 +18,5 @@ Github Copilot CLI ------ TGShell
 - [ ] You need access to the internet ------ You DONT need access to the internet
 - [ ] Monthly fee ------ FREE
 - [ ] Good results ------ Meh Results
+
+![death by copilot](https://github.com/jucasoliveira/pr_review/assets/11979969/9ebc1698-830e-4018-941d-5a8c358ee105)
