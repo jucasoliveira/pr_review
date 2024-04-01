@@ -1,0 +1,1 @@
+- [ ] What is the Golden Mean of a software engineering path
