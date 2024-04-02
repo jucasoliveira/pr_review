@@ -1,3 +1,9 @@
+# Gihub code heist
+
+Not long ago I was reading on twitter ( I really need to find the source to confirm its true) some researchers presented a paper, highlinging that, in other to add backdoors into a open source project, they would nee to create different Pull requests, adding bit by bit, their backdoor, so no one will notice the problem.
+
+# How it was discovered
+
 This backdoor were discovered on Friday, March 29th , when Andres Freun posted some odd symptons around liblzma
 ![liblzma](https://cdn-images-1.medium.com/max/800/1*-2m1Vu4AGfhfVivMqi25Kw.png)
 And to be fair: the backdoor is NOT in the upstream source of build-to-host, nor is build-to-host used by xz in git , meaning is not on the repository itself. However, it is present in the tarballs released upstream, except for the "source code" links.

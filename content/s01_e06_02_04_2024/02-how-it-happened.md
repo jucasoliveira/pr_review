@@ -1,45 +1,50 @@
 # How it happened
 
-- 2021 Jia Tan (JiaT75) Creates GitHub Account
+- 2021
 
-  - Their initial contributions are suspicious, particularly a PR in libarchive that introduced a potential vulnerability.
-    ![JiaT75's first commit to XZ](https://cdn-images-1.medium.com/max/800/1*TVm5QDCcXIETfwXdCs1pvA.png)
-    ps.: libarchive supports a wide range of archive formats, including popular ones like tar, gzip, bzip2, zip, and rar, as well as several others. The library is designed to be portable and is used in various Unix-like operating systems, including FreeBSD, Linux, and macOS, as well as on Windows.
-    2022
+  - Jia Tan (JiaT75) creates her GitHub account
 
-- April 2022:
+  - Their early contributions are already suspicious, in particularly a PR on libarchive that introduced a potential vulnerability.
+    ![JiaT75's first appointment with XZ](https://cdn-images-1.medium.com/max/800/1*TVm5QDCcXIETfwXdCs1pvA.png)
+    ps.: libarchive supports a wide variety of archive formats, including popular ones like tar, gzip, zip and rar, as well as several others. The library is designed to be portable and used across multiple Unix-like operating systems, including FreeBSD, Linux, and macOS, as well as Windows.
 
-  - Jia Tan submits a seemingly irrelevant patch, marking the entry of another persona, Jigar Kumar, who pressures for this patch's inclusion and later for adding another maintainer to XZ.
-    ![Marking JiaT75's first commit to XZ](https://cdn-images-1.medium.com/max/800/1*h8KhYWkCqtFVqeRQZwZE1A.png)
+- 2022:
 
-  - JiaT75's First Commit to XZ: Three days after the emails pressuring Lasse Collin to add JiaT75 as maintainer, as they makes their first commit to xz - Marks their regular contribution to the project, eventually becoming the second most active contributor.
-    ![JiaT75's first commit to XZ](https://cdn-images-1.medium.com/max/800/1*JISkxpQVkCb_HKIqVolD3A.png)
+  - In April 2022 Jia Tan sends an apparently irrelevant patch. But here marks the entry of another persona, Jigar Kumar, who pushes for the inclusion of this patch and later for the addition of another maintainer to XZ.
+    ![Marking JiaT75's first commit with XZ](https://cdn-images-1.medium.com/max/800/1*h8KhYWkCqtFVqeRQZwZE1A.png)
 
-  - Disappearances: Jigar Kumar and another account, Dennis Ens, involved in pressuring for changes in XZ, cease their visible online activity.
-    ![JiaT75's first commit to XZ](https://cdn-images-1.medium.com/max/800/1*BU4P3-q4A2cHbKcxdEDcpQ.png)
+  - JiaT75's first commitment to XZ: Three days after the emails, Lasse Collin ends up adding JiaT75 as a maintainer. This is when they make their first commitment to xz , and from then on he starts making regular contributions to the project, eventually becoming the second most active contributor.
+    ![JiaT75's first appointment with XZ](https://cdn-images-1.medium.com/max/800/1*JISkxpQVkCb_HKIqVolD3A.png)
 
-- 2023 JiaT75 Gains Trust:
+  - At the same time Jigar Kumar and another account, Dennis Ens, involved in the pressure for changes in the XZ, ceased their online activity.
+    ![JiaT75's first appointment with XZ](https://cdn-images-1.medium.com/max/800/1*BU4P3-q4A2cHbKcxdEDcpQ.png)
 
-  - Merges their first significant commit on January 7, indicating full trust within the XZ repository. Fortunatelly it was reverted, and I cant actually refer the history here.
-    ![Marking JiaT75's first commit to XZ](https://cdn-images-1.medium.com/max/800/1*f_o9bNiwn-hKdwmVLy8i5A.png)
+- 2023 :
 
-  - March 2023: JiaT75 push Changes to Google's oss-fuzz contact email and commits introduce testing infrastructure for the exploit.
-    ![Marking JiaT75's first commit to XZ](https://cdn-images-1.medium.com/max/800/1*DulPIc9j_qfgN3THNbmuhA.png)
+  - January: Jia Tan makes his biggest contribution to the project, indicating full confidence in him as maintainer of the XZ repository. Apparently the history was deleted or reverted, so I don't have a record of what was changed.
+    ![Marking JiaT75's first commit with XZ](https://cdn-images-1.medium.com/max/800/1*f_o9bNiwn-hKdwmVLy8i5A.png)
 
-  - July 2023: A PR in oss-fuzz aims to hide malicious changes, and issues are opened to draw attention away from these vulnerabilities.
-    ![Marking JiaT75's first commit to XZ](https://cdn-images-1.medium.com/max/800/1*UjQCWmIelXdwOcF8_h8qTw.png)
+  - Marco: JiaT75 creates a PR with changes to Google's oss-fuzz contact email and introduces commits into the testing infrastructure, this is a basis for the exploit.
+    ![Marking JiaT75's first commit with XZ](https://cdn-images-1.medium.com/max/800/1*DulPIc9j_qfgN3THNbmuhA.png)
 
-- 2024 Control Over Project URL
+  - July: A PR in oss-fuzz aims to hide malicious changes and here we see a focus on creating issues in order to divert attention from these vulnerabilities.
+    ![Marking JiaT75's first commit with XZ](https://cdn-images-1.medium.com/max/800/1*UjQCWmIelXdwOcF8_h8qTw.png)
 
-  - A PR changes the project URL, indicating an attempt to further control over the XZ project.
-    ![Marking JiaT75's first commit to XZ](https://cdn-images-1.medium.com/max/800/1*GPM9xfsJsYz2P0NqyXEcsg.png)
+- 2024 Control over project URL
 
-  - The Discovery: Anomalies in system performance lead to the discovery of the backdoor, prompted by unexpected behavior and performance issues in software relying on liblzma.
+  - Jia Tan creates a PR that changes the project URL, indicating an attempt for greater control over the XZ project. From what I saw in the cybersecurity community, the new url directed users to a different server.
+    ![Marking JiaT75's first commit with XZ](https://cdn-images-1.medium.com/max/800/1*GPM9xfsJsYz2P0NqyXEcsg.png)
 
-- Additional Developments
+  - Marco: After these changes, anomalies in the system's performance lead to the discovery of the backdoor, caused by unexpected behavior and performance problems in software that depends on liblzma.
 
-  - Suspicious Activities: Hans Jansen pushes for the compromised version of XZ to be included in Debian, alongside other suspicious accounts advocating for its inclusion in various projects.
+- And then we could see the full picture
 
-  - GitHub Suspensions: The accounts of JiaT75 and Lasse Collin are suspended, with the XZ repository also banned, complicating audit efforts.
+  - [x] To attack and create a backdoor, several fake accounts were created over time to create a false view of different actors interested in these open source projects
 
-  - Lasse Collin's Response: Begins reverting malicious changes and provides a FAQ to address the situation.
+  - [x] This can be seen when Hans Jansen, another ghost account, pushes for the compromised version of XZ to be included in Debian, along with other suspicious accounts advocating its inclusion in various projects.
+
+  - [x] JiaT75 and Lasse Collin's accounts are suspended from Github, with the XZ repository also banned, complicating auditing efforts.
+
+  - [x] And this actually compromised the only legitimate developer who maintained this Open Source: Lasse Collin, as he apparently was more a victim than an accomplice in this event
+
+  - [x] And we have to verify that, most of the rollbacks of these malicious changes were made by Lasse Collin, as soon as he was informed about what was happening.

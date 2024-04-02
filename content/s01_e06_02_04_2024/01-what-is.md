@@ -1,7 +1,5 @@
-# What is this xz backdoor exploit?
+# What is this xz exploit?
 
-The XZ backdoor exploit involved meticulous malicious modifications to the XZ compression tool's code, allowing unauthorised access or control.
+The XZ exploit involved meticulous malicious modifications to the XZ compression tool's code, allowing unauthorised access or control. AKA.: They created a backdoor in the tool.
 
-Attackers subtly inserted vulnerabilities within the tool's updates, which were then distributed and used unsuspectingly in various systems.
-
-This breach could compromise the security of systems using the affected versions of XZ by enabling attackers to execute unauthorised code.
+On this way , attackers subtly inserted vulnerabilities within the tool's updates, which were then distributed and used unsuspectingly in different OS's
